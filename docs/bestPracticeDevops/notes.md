@@ -153,3 +153,8 @@
 
 - Permet de faire des containers sans le problème du double fork
 - Permet de faire des containers avec un init propre au conteneur
+
+## LXC
+
+- Un peut comme systemd-nspawn mais avec une liste de repo pour avoir toute les distribs
+- Permet de faire des conteneurs sans avoir les droits root
