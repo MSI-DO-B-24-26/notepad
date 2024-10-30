@@ -1,5 +1,4 @@
-
-# 📚 Repository de Cours
+# Repository de Cours
 
 Bienvenue dans notre dépôt GitHub pour mes études. Ce dépôt contient tous les fichiers organisés par matière et langue afin de faciliter l'accès et la gestion des notes, documents, et ressources pour chaque matière.
 
@@ -16,9 +15,9 @@ docs/
 
 ### Détails
 
-- **`docs/`** : Ce dossier principal contient tous les fichiers et documents relatifs à mes études.
-- **`nomDelaMatière/`** : Sous-dossiers pour chaque matière (par exemple, `Mathématiques`, `Physique`, etc.). Chaque matière a son propre dossier pour organiser ses ressources.
-- **`English/` et `Français/`** : Pour chaque matière, il existe deux sous-dossiers (Anglais et Français) pour séparer les documents dans la langue respective. Cela permet de maintenir une bonne organisation et un accès facile aux documents dans la langue souhaitée.
+* **`docs/`** : Ce dossier principal contient tous les fichiers et documents relatifs à mes études.
+* **`nomDelaMatière/`** : Sous-dossiers pour chaque matière (par exemple, `Mathématiques`, `Physique`, etc.). Chaque matière a son propre dossier pour organiser ses ressources.
+* **`English/` et `Français/`** : Pour chaque matière, il existe deux sous-dossiers (Anglais et Français) pour séparer les documents dans la langue respective. Cela permet de maintenir une bonne organisation et un accès facile aux documents dans la langue souhaitée.
 
 ## Exemples de Structure
 
@@ -36,21 +35,29 @@ docs/
 ```
 
 Dans cet exemple, le dossier `Mathématiques` contient deux sous-dossiers :
-  - **Anglais/** : Pour les notes et documents en anglais.
-  - **Français/** : Pour les notes et documents en français.
+
+* **Anglais/** : Pour les notes et documents en anglais.
+* **Français/** : Pour les notes et documents en français.
 
 ## Utilisation
 
-Ce dépôt permet d'organiser tous les documents en fonction des matières et des langues, rendant la recherche et l'utilisation des ressources beaucoup plus pratiques. 
+Ce dépôt permet d'organiser tous les documents en fonction des matières et des langues, rendant la recherche et l'utilisation des ressources beaucoup plus pratiques.
 
-1. Clonez le dépôt pour accéder aux fichiers localement :
+1.  Clonez le dépôt pour accéder aux fichiers localement :
+
     ```bash
     git@github.com:MSI-DO-B-24-26/notepad.git
     ```
-
 2. Naviguez dans les sous-dossiers pour trouver les documents nécessaires pour chaque matière et chaque langue.
 
----
+#### Merge Requests
+
+Utiliser ce format pour le titres de ta MR
+
+```
+subject({subjectName}): [notes|flashcard|...] {firstName}
+```
+
+***
 
 Merci d’utiliser ce dépôt pour suivre notre parcours académique !
-
