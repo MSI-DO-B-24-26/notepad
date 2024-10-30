@@ -45,7 +45,7 @@ Ce dépôt permet d'organiser tous les documents en fonction des matières et de
 
 1. Clonez le dépôt pour accéder aux fichiers localement :
     ```bash
-    git@github.com:MSI-DO-V/notepad.git
+    git@github.com:MSI-DO-B-24-26/notepad.git
     ```
 
 2. Naviguez dans les sous-dossiers pour trouver les documents nécessaires pour chaque matière et chaque langue.
