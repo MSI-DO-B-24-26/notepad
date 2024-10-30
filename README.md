@@ -1,8 +1,4 @@
-Sure! Here's a `README.md` file in French that explains the repository structure you've described.
 
----
-
-```markdown
 # 📚 Repository de Cours
 
 Bienvenue dans notre dépôt GitHub pour mes études. Ce dépôt contient tous les fichiers organisés par matière et langue afin de faciliter l'accès et la gestion des notes, documents, et ressources pour chaque matière.
@@ -49,7 +45,7 @@ Ce dépôt permet d'organiser tous les documents en fonction des matières et de
 
 1. Clonez le dépôt pour accéder aux fichiers localement :
     ```bash
-    git clone <URL_du_dépôt>
+    git@github.com:MSI-DO-V/notepad.git
     ```
 
 2. Naviguez dans les sous-dossiers pour trouver les documents nécessaires pour chaque matière et chaque langue.
@@ -57,4 +53,4 @@ Ce dépôt permet d'organiser tous les documents en fonction des matières et de
 ---
 
 Merci d’utiliser ce dépôt pour suivre notre parcours académique !
-```
+
